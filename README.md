@@ -34,5 +34,3 @@ Gerenciar produtos, endereços, transportadores e fretes. Um frete pode relacion
 - páginas PHP: cadastros, fretes e relatórios.
 - `banco.sql`: criação das tabelas.
 
-## Observação acadêmica
-O projeto deve ser testado no ambiente local antes da apresentação. O aluno deve compreender os arquivos e explicar as funções principais no vídeo.
