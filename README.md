@@ -34,3 +34,19 @@ Gerenciar produtos, endereços, transportadores e fretes. Um frete pode relacion
 - páginas PHP: cadastros, fretes e relatórios.
 - `banco.sql`: criação das tabelas.
 
+## Referências
+
+- UNIPAR. *Roteiro de Atividade de Aprendizagem – Atividade Prática Orientada (APO): Fundamentos de Programação para Internet.*
+
+- SCHOOL OF NET. *PHP Básico.* Disponível em: https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/
+
+- PHP GROUP. *Manual do PHP.* Disponível em: https://www.php.net/manual/pt_BR/
+
+- W3SCHOOLS. *Referências sobre HTML, CSS, JavaScript, jQuery e PHP.* Disponível em: https://www.w3schools.com/
+
+- HAVERBEKE, Marijn. *JavaScript Eloquente.* Disponível em: https://github.com/braziljs/eloquente-javascript
+
+- CHACON, Scott; STRAUB, Ben. *Pro Git.* Disponível em: https://git-scm.com/book/pt-br/v2
+
+- GITHUB GUIDES. *Mastering Markdown.* Disponível em: https://guides.github.com/features/mastering-markdown
+
